@@ -1,1 +1,1 @@
-Scripts fro redirections
+Scripts for redirections
